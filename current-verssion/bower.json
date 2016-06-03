@@ -1,0 +1,22 @@
+{
+  "name": "textAngular-bug-demo",
+  "authors": [
+    "Maurice Williams <morficus@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "textAngular": "~1.5.1",
+    "requirejs": "~2.2.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "textAngular-bug-demo",
+  "authors": [
+    "Maurice Williams <morficus@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "textAngular": "https://github.com/morficus/textAngular.git#rangy-fix",
+    "requirejs": "~2.2.0",
+    "angular": "~1.5.6"
+  }
+}
